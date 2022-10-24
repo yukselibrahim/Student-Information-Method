@@ -1,0 +1,16 @@
+C:\Users\ibrah\Desktop\C#\Alıştırma 6\Student_Information\bin\Debug\Student_Information.exe.config
+C:\Users\ibrah\Desktop\C#\Alıştırma 6\Student_Information\bin\Debug\Student_Information.exe
+C:\Users\ibrah\Desktop\C#\Alıştırma 6\Student_Information\bin\Debug\Student_Information.pdb
+C:\Users\ibrah\Desktop\C#\Alıştırma 6\Student_Information\obj\Debug\Student_Information.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\C#\Alıştırma 6\Student_Information\obj\Debug\Student_Information.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\Desktop\C#\Alıştırma 6\Student_Information\obj\Debug\Student_Information.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\C#\Alıştırma 6\Student_Information\obj\Debug\Student_Information.exe
+C:\Users\ibrah\Desktop\C#\Alıştırma 6\Student_Information\obj\Debug\Student_Information.pdb
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Student_Information\bin\Debug\Student_Information.exe.config
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Student_Information\bin\Debug\Student_Information.exe
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Student_Information\bin\Debug\Student_Information.pdb
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Student_Information\obj\Debug\Student_Information.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Student_Information\obj\Debug\Student_Information.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Student_Information\obj\Debug\Student_Information.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Student_Information\obj\Debug\Student_Information.exe
+C:\Users\ibrah\Desktop\İbrahim Yüksel\Student_Information\obj\Debug\Student_Information.pdb
